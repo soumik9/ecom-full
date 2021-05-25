@@ -1,3 +1,19 @@
+<pre>
+> Register
+> Login
+      >> if in database 'utype' == ADMIN , You will be logged as Admin
+      >> if in database 'utype' == USER , You will be logged as USER
+> Shop Page dynamic with paginate
+> Shop page dynamic with categories
+> Shop page dynamic with shorting and per pager
+> Manage categories from admin (Add, edit, update, delete)
+> Manage Products from admin (Add, edit, update, delete)
+> Manage Home Slider from admin (Add, edit, update, delete)
+
+
+.... Still processing....
+</pre>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
