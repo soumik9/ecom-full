@@ -6,6 +6,7 @@
 > Shop Page dynamic with paginate
 > Shop page dynamic with categories
 > Shop page dynamic with shorting and per pager
+> Add to cart with shopping cart package
 > Manage categories from admin (Add, edit, update, delete)
 > Manage Products from admin (Add, edit, update, delete)
 > Manage Home Slider from admin (Add, edit, update, delete)
